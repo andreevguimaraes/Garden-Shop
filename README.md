@@ -1,4 +1,4 @@
-Garden Shop — Dashboard de Estoque e Vendas
+# Garden Shop — Dashboard de Estoque e Vendas
 
 Dashboard web interativo para apoiar a gestão de estoque de uma loja virtual de jardinagem. A versão 2 reúne alertas de reposição, evolução das vendas e dos pedidos, participação das categorias e ranking de clientes.
 
